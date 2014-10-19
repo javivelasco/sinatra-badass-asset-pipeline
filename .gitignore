@@ -1,0 +1,12 @@
+.sass-cache
+.DS_Store
+.bundle
+.rvmrc
+.env
+.env.*
+.rerun
+tmp/**
+.powenv
+.floo
+.flooignore
+log/**
